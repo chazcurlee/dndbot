@@ -20,4 +20,8 @@ My site will host a custom made Discord bot that will allow users to access the 
 
 - [ERD](https://app.diagrams.net/#G1GHQgjcnqkhGrKZwh8UxJTjkmSnCAaihW)
 
+![ERD](./assets/erd.png)
+
 - [Comp Map](https://app.diagrams.net/#G1aA5ywTOAH8ZFj7ReOu8qQlgRT7yCoMMn)
+
+![comp-map](./assets/comp-map.png)
